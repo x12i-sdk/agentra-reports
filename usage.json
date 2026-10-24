@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/agentra-reports",
+  "packageVersion": "0.1.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/agentra-reports",
+  "usageRepository": "https://github.com/x12i-sdk/agentra-reports",
+  "sourceRepository": "https://github.com/x12i/agentra",
+  "sourceCommit": "772e50e64925e6359e42172d4dcf11d4aa795763",
+  "sourcePackageDirectory": "packages/reports",
+  "example": {
+    "title": "Export a saved report as JSON and CSV",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:29:38.634288+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "1edd0cfa27be2b809e69a3f6b1791f26facbcdd2326f861fbd36e6e15aec5185",
+    "manifestSha256": "46b838a5c78a94e0dfa821745f07fa3d1a17c4e556cbfe912d733943a1c4e4c7"
+  },
+  "validationFiles": {
+    "src/index.mjs": "1edd0cfa27be2b809e69a3f6b1791f26facbcdd2326f861fbd36e6e15aec5185"
+  }
+}
